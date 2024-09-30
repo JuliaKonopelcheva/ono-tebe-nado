@@ -150,12 +150,11 @@
 
 .lots__heading {
   margin-top: 180px;
-  padding-bottom: 28px;
+  padding-bottom: 27px;
   padding-left: 64px;
   font-weight: bold;
   font-size: 40px;
   text-transform: uppercase;
-  
 }
 
 .lots__card-list {
@@ -234,7 +233,6 @@
 .lots__look-more-link {
   margin-left: 64px;
   font-size: 20px;
-  
   text-decoration: underline solid 1px;
 }
 
@@ -251,8 +249,6 @@
   width: 240px;
   height: 240px;
   margin-top: 2.3em;
-  
-  
 }
 
 .about__logo {
@@ -273,7 +269,7 @@
 }
 
 .about__title {
-  margin-bottom: 2.5em;
+  margin-bottom: 2.45em;
   font-weight: 700;
   font-size: 40px;
   line-height: 47px;
@@ -346,4 +342,3 @@
   width: 48px;
   height: 48px;
 }
-

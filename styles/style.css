@@ -10,26 +10,26 @@
     justify-content: flex-start;
     align-items: center;
     padding-top: 9px;
-    padding-left: 25px;
+    padding-left: 27px;
 }
 
 .header__menu-list {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    gap: 29px;
+    gap: 30px;
     padding: 0;
     list-style: circle;
 }
 
 .header__menu-link {
-  font-family: Regular, sans-serif;
   font-size: 19px;
-  letter-spacing: 0.01em;
+  letter-spacing: -0.02em;
 }
 
 .header__menu-item_active {
   display: block;
+  letter-spacing: -0.04em;
 }
 
 .header__menu-item_active .header__menu-link {
@@ -318,12 +318,13 @@
   justify-content: center;
   align-items: center;
   padding: 0;
+  line-height: 20px;
   list-style: none;
 }
 
 .footer__menu-link {
-  font-family: Regular, sans-serif;
   font-size: 19px;
+  letter-spacing: -0.02em;
 }
 
 .footer__menu-item_active {

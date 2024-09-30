@@ -9,7 +9,7 @@
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    padding-top: 9px;
+    padding-top: 7px;
     padding-left: 27px;
 }
 
@@ -89,7 +89,7 @@
   flex-direction: column;
   row-gap: 10px;
   margin-bottom: 136px;
-  font-family: Bold, sans-serif;
+  font-weight: bold;
   font-size: 100px;
   line-height: 1.15;
   letter-spacing: 0.3em;
@@ -152,7 +152,7 @@
   margin-top: 180px;
   padding-bottom: 28px;
   padding-left: 64px;
-  font-family: Bold, sans-serif;
+  font-weight: bold;
   font-size: 40px;
   text-transform: uppercase;
   

@@ -238,9 +238,9 @@
 
 .about__column {
   display: grid;
-  grid-template-columns: 32%  63.4%;
+  grid-template-columns: 32%  65%;
   justify-items: center;
-  gap: 23px;
+  gap: 22px;
   padding: 146px 24px 0 24px;
 }
 

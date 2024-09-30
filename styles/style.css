@@ -238,7 +238,7 @@
 
 .about__column {
   display: grid;
-  grid-template-columns: 32%  63.5%;
+  grid-template-columns: 32%  63%;
   justify-items: center;
   gap: 23px;
   padding: 146px 24px;
